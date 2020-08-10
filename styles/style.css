@@ -21,3 +21,12 @@ li a {
 li a:hover {
   background-color: #111111;
 }
+
+nav a {
+  display: block;
+  padding: 20px;
+  background-color: rgb(50,50,50);
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
